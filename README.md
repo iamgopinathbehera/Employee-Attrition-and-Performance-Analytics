@@ -52,12 +52,15 @@ A Streamlit app is included for an interactive exploration of the insights and p
 Open the link provided in the terminal (e.g., http://localhost:8501) to access the app.
 
 - How to Use ⚙️
+  
 **1.EDA Notebook**
+
 Run the EDA - <i>Employee Attrition and Performance Analytics.ipynb<i> to explore the dataset and gain insights.
 
 Key Outputs: Visualizations and initial statistical observations.
 
 **2.Model Training Notebook**
+
 Use the Model Training - <i>Employee Attrition and Performance Analytics.ipynb<i> to preprocess data and build models.
 
 Evaluate models to identify the best approach for predicting attrition.
