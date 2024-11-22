@@ -88,8 +88,11 @@ Python 3.13
 **Libraries:**
 
 📚 Data Handling: pandas, numpy
+
 📊 Visualization: matplotlib, seabornm plotly
+
 🤖 Machine Learning: scikit-learn
+
 🌐 Web App: streamlit
 
 **Dataset 📂**
