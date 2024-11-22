@@ -1,0 +1,31 @@
+# Ignore the virtual environment folder
+myenv/
+
+# Ignore all compiled Python files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.notebooks_checkpoints/
+
+# Ignore model checkpoints and temporary files
+models/*.tmp
+models/*.h5
+
+# Ignore data files except the ones in specified folders
+data/raw/*.csv
+!data/raw/employee_data.csv
+data/preprocessed/*.csv
+!data/preprocessed/processed_data.csv
+
+# Ignore any logs or temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variable files
+.env
