@@ -50,12 +50,16 @@ A Streamlit app is included for an interactive exploration of the insights and p
 ---
 
 Open the link provided in the terminal (e.g., http://localhost:8501) to access the app.
-How to Use ⚙️
-EDA Notebook
-Run the EDA - Employee Attrition and Performance Analytics.ipynb to explore the dataset and gain insights.
+
+- How to Use ⚙️
+**1.EDA Notebook**
+Run the EDA - <i>Employee Attrition and Performance Analytics.ipynb<i> to explore the dataset and gain insights.
+
 Key Outputs: Visualizations and initial statistical observations.
-Model Training Notebook
-Use the Model Training - Employee Attrition and Performance Analytics.ipynb to preprocess data and build models.
+
+**2.Model Training Notebook**
+Use the Model Training - <i>Employee Attrition and Performance Analytics.ipynb<i> to preprocess data and build models.
+
 Evaluate models to identify the best approach for predicting attrition.
 
 
@@ -63,9 +67,11 @@ Key Findings and Recommendations 🔑
 
 **Insights**:
 
-🕒 Employees with excessive overtime, low satisfaction, or inadequate pay are at risk of leaving.
-💼 Retention programs targeting these factors could significantly reduce attrition.
+- 🕒 Employees with excessive overtime, low satisfaction, or inadequate pay are at risk of leaving.
+- 💼 Retention programs targeting these factors could significantly reduce attrition.
+
 Actionable Steps:
+
 ⚖️ Improve work-life balance by minimizing overtime hours.
 📋 Regularly survey job satisfaction and implement measures to address concerns.
 💰 Review compensation structures to ensure competitive pay.
