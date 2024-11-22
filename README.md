@@ -76,7 +76,9 @@ Key Findings and Recommendations 🔑
 Actionable Steps:
 
 ⚖️ Improve work-life balance by minimizing overtime hours.
+
 📋 Regularly survey job satisfaction and implement measures to address concerns.
+
 💰 Review compensation structures to ensure competitive pay.
 
 **Requirements**📦
