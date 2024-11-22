@@ -47,6 +47,8 @@ A Streamlit app is included for an interactive exploration of the insights and p
    ```shell
    pip install streamlit
 
+   ---
+
 Open the link provided in the terminal (e.g., http://localhost:8501) to access the app.
 How to Use ⚙️
 EDA Notebook
