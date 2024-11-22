@@ -7,6 +7,7 @@ This repository contains analysis and predictive modeling focused on understandi
 ## **Overview** 📝
 
 ### 1. **Exploratory Data Analysis (EDA)**
+
 - **Objective:** Explore the dataset to uncover patterns and insights related to employee attrition.
 - **Key Findings:**
   - 📊 **Attrition Rate:** 16% of employees left the company.
@@ -54,23 +55,31 @@ Key Outputs: Visualizations and initial statistical observations.
 Model Training Notebook
 Use the Model Training - Employee Attrition and Performance Analytics.ipynb to preprocess data and build models.
 Evaluate models to identify the best approach for predicting attrition.
+
+
 Key Findings and Recommendations 🔑
-Insights:
+
+**Insights**:
+
 🕒 Employees with excessive overtime, low satisfaction, or inadequate pay are at risk of leaving.
 💼 Retention programs targeting these factors could significantly reduce attrition.
 Actionable Steps:
 ⚖️ Improve work-life balance by minimizing overtime hours.
 📋 Regularly survey job satisfaction and implement measures to address concerns.
 💰 Review compensation structures to ensure competitive pay.
-Requirements 📦
-Python 3.x
-Libraries:
+
+**Requirements**📦
+
+Python 3.13
+
+**Libraries:**
+
 📚 Data Handling: pandas, numpy
-📊 Visualization: matplotlib, seaborn
+📊 Visualization: matplotlib, seabornm plotly
 🤖 Machine Learning: scikit-learn
 🌐 Web App: streamlit
 
-Dataset 📂
-The dataset includes anonymized employee records such as demographic details, job roles, satisfaction levels, income, and performance ratings.
+**Dataset 📂**
+- The dataset includes anonymized employee records such as demographic details, job roles, satisfaction levels, income, and performance ratings.
 
 
